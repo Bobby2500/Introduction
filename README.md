@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GongGongNuts
+- 👋 Hi, I’m Sheng Liang (@Bobby2500)
 - 👀 I’m interested in learning to be a full stack developer!
 - 🌱 I’m currently learning JavaScript.
 - 💞️ I’m looking to collaborate on anything to get hands on experience.
